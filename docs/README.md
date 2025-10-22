@@ -1,10 +1,16 @@
-# Math formulas
-## Area
-- Circle: S = πR²
-- Rectangle: S = ab
-- Square: S = a²
+# Вычислитель <ins>площади и периметра</ins> геометрических фигур
 
-## Perimeter
-- Circle: P = 2πR
-- Rectangle: P = 2a + 2b
-- Square: P = 4a
+### На данный момент доступны функции для фигур:
+- круг * *(circle)* *
+- квадрата * *(square)* *
+
+
+## Математические формулы:
+    
+### Круг * *(circle)* *
+- <ins>Площадь</ins>: S = πR²
+- <ins>Периметр</ins>: P = 2πR
+
+### Квадрат * *(square)* *
+- <ins>Площадь</ins>: S = a²
+- <ins>Периметр</ins>: P = 4a
